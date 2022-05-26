@@ -14,6 +14,7 @@ export default function App() {
               )
             setS_data(data);
         }
+        
         else{
 
             setFlag(true)
